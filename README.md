@@ -7,7 +7,7 @@
 ---
 
 ### À propos
-DevOps orienté backend, avec un intérêt marqué pour la compréhension des systèmes et la qualité du code.  
+DevOps avec un intérêt marqué pour la compréhension des systèmes et la qualité du code.  
 Je privilégie des bases solides (architecture, algorithmes, lisibilité) plutôt que le simple empilement de technologies.
 
 ---
